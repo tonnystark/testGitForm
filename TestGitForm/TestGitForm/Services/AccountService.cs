@@ -8,5 +8,9 @@ namespace TestGitForm.Services
 {
     class AccountService
     {
+        public bool KiemTraChanLe(int n)
+        {
+            return n % 2 == 0;
+        }
     }
 }
