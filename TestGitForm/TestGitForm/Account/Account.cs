@@ -8,5 +8,6 @@ namespace TestGitForm.Account
 {
     class Account
     {
+        string taikhoan = "2132132312";
     }
 }
